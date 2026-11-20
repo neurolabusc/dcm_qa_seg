@@ -1,0 +1,23 @@
+{
+	"Modality": "SEG",
+	"InstitutionalDepartmentName": "None",
+	"SeriesDescription": "refs_e_other",
+	"ProtocolName": "refs_e_other",
+	"ImageType": ["DERIVED", "PRIMARY"],
+	"RawImage": false,
+	"SeriesNumber": 13,
+	"SliceThickness": 1,
+	"SpacingBetweenSlices": 1,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"Segments": [
+		{ "LabelValue": 1, "SegmentNumber": 1, "SegmentLabel": "seg1", "RGB": [255, 255, 255], "SegmentedPropertyCategoryCode": {"CodeValue": "123037004", "CodingSchemeDesignator": "SCT", "CodeMeaning": "Anatomical Structure"}, "SegmentedPropertyTypeCode": {"CodeValue": "12738006", "CodingSchemeDesignator": "SCT", "CodeMeaning": "Brain"} }
+	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20261105"
+}
